@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <Test msg="Hello world!"/>
+  <Test msg="Hello world! my vue project"/>
 </template>
 
 <script>
